@@ -5,8 +5,8 @@ Es un smart contract de una loteria, es decir cada user paga, elije un numero y 
   3) User: Funciones de usuario.
   4) Main: Funciones de lotería.
 ## Normas:
-  .Solo tres jugadores, un boleto por usuario.
-  .Pagar boleto.
-  .Seleccione un número.
-  .Cualquier address puede llamar a funcion pago()
+  1) Solo tres jugadores, un boleto por usuario.
+  2) Pagar boleto.
+  3) Seleccione un número.
+  4) Cualquier address puede llamar a funcion pago()
  Este codigo es solo para practica, probablemente tenga errores y puntos de falla, no intene usarlos en la vida real.
